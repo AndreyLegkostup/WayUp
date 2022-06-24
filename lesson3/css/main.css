@@ -1,0 +1,43 @@
+h1{
+	color: red;
+}
+.text{
+	color: #fff;
+	box-sizing: border-box;
+	background: blue;
+	width: 100px ;
+	height: 75px;
+}
+.suptext{
+	margin-top: 100px;
+}
+.suptext span{
+	color: red;
+}
+.H2{
+	color: #fff;
+	background: green;
+}
+.H2 span{
+	display: block;
+	height: 40px;
+	padding: 50px;
+	text-align: left;
+}
+.form{
+	margin-left: 150px;
+}
+.list{
+	font-size: 25px;
+}
+.list_1{
+	border: 1px solid #000;
+}
+.list_2{
+	/*border-top-width: 3px solid #000;
+	border-bottom-width: 3px solid #000;*/
+	border: 1px solid #000
+}
+.list_3{
+	border: 1px solid #000;
+}
